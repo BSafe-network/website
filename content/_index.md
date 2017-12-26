@@ -4,7 +4,7 @@ description = ""
 date = "2017-04-24T18:36:24+02:00"
 
 +++
-![logo](bsafelogo.pdf)
+![logo](Bsafe_logo.png)
 # BSafe.network
 
 {{% alert theme="danger" %}}**BSafe.network Layer 2 Technology Competition has been announced. See the [Call For Proposal](technology-competiton/leyer2competition/index.html). Deadline is the end of March 2018.** {{% /alert %}}
