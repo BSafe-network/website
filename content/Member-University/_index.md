@@ -1,5 +1,5 @@
 +++
-title = "Current Member Uiversities"
+title = "Current Member Universities"
 description = ""
 date = "2017-12-05T10:00:00+07:00"
 creatordisplayname = "Shin'ichiro Matsuo"
