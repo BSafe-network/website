@@ -12,7 +12,7 @@ December 8, 2018, BSafe.network
 ### 1. Background of BSafe.network affiliated competition series and reasons for holding  layer 2 competition
 
 Nowadays, many cryptocurrency projects and blockchain based projects are becoming reality, and there are a large number of technologies and implementations. The development of theory and technology to make blockchains mature enough for actual applications is important if we are to provide a foundation for building upon, much like what happened with the Internet itself. Scaling Bitcoin and other academic conferences are the places to find the future progress of blockchain technology. In addition to such conferences, we need a place to provide scientific evidence to evaluate and compare blockchain technologies. This evidence is not limited to performance, but also security, privacy, game theory, economics, and regulation. BSafe.network is the neutral academic research test network by international universities with 24 universities currently participating. BSafe.network plans to hold a series of open technology competitions on many aspects of blockchain technologies. The aims of the open competition are:
- 
+
 * facilitating development and progress of theory,
 * conducting technology verification over BSafe.network,
 * providing review by university researchers/professors,
@@ -22,13 +22,13 @@ Nowadays, many cryptocurrency projects and blockchain based projects are becomin
 Currently, "layer 2 technology for blockchain" is a category of technology to enhance blockchain based transactions by connecting the decentralized nature of blockchain and actual applications by segregating a huge number of transactions. There are also other types of layer 2 technology to enhance privacy. Lightning network and TumbleBit are examples of Layer 2 technologies. Because layer 2 protocols provide different trust models than blockchains, there may be trade-offs among performance, security, privacy and so on. This competition aims to have deep and scientific knowledge of designing and evaluating layer 2 technology to facilitate further research and development of layer 2 technology.
 
 ### 2. Goals
-The goals of this competition are 
+The goals of this competition are
 
-* Collecting attack models on layer 2 networks, 
-* building measurement of security and performance of layer 2 technology. and 
+* Collecting attack models on layer 2 networks,
+* building measurement of security and performance of layer 2 technology. and
 * better understanding the trade-offs of using layer 2 technology.
 
-This competition does not aim to select some technologies as standards or candidates of standards. It aims to provide public academia backed data and research results. 
+This competition does not aim to select some technologies as standards or candidates of standards. It aims to provide public academia backed data and research results.
  Outcomes to the public are as follows.
 
 * Program codes: cc-by license
@@ -103,7 +103,7 @@ e)Availability of layer 2 nodes
 
 a) Correlation among transactions
 
-b)Unlinkability among transactions 
+b)Unlinkability among transactions
 
 c)Unlinkability to identity
 
@@ -111,7 +111,7 @@ c)Unlinkability to identity
 * Call for submission start: December 8, 2017
 * Submission deadline: March 31, 2018
 * Evaluation and experimentation start: April 1, 2018
-* Disclosure of a list of proposals: April 15 
+* Disclosure of a list of proposals: April 15
 * Evaluation and experimentation end: June 30, 2018
 * Announcement of a winner and excellent proposals: July 15, 2018
 * Technical presentation and awarding ceremony: August, 2018
@@ -151,7 +151,7 @@ We are planning to award a winner and excellent proposals "B-Prize" with certain
 
 Other committee members will be added after confirmation.
 
-### 9. Contact and submission
+### 10. Contact and submission
 E-mail: [layer2.competition@bsafe.network](mailto:layer2.competition@bsafe.network)
 
 Website: http://bsafe.network
@@ -159,4 +159,3 @@ Website: http://bsafe.network
 
 #### About BSafe.network
 BSafe.network is an international and neutral research test network for blockchain technology. It plays a similar role as what NSFNET and BSD did for the development of the internet technology, for blockchain technology. The network consists of international universities to preserve neutrality, and as of December 8, 24 universities from North America, Europe, Asia and Africa are a part of BSafe.network.
-
