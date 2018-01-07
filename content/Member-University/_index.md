@@ -11,7 +11,7 @@ pre ="<i class='fa fa-edit'></i> "
 
 +++
 
-## Current Member Universities (24 Universities, as of December 05, 2017)
+## Current Member Universities (25 Universities, as of January 06, 2018)
 
 #### North and South America
 * Massachusetts Institute of Technology, Media Lab, USA
@@ -20,6 +20,7 @@ pre ="<i class='fa fa-edit'></i> "
 * Georgetwon University, USA
 * St. Mary's University School of Law, USA
 * The University of British Columbia, Canada
+* The University of Houston, USA
 
 #### Asia
 * The University of Tokyo, Japan
