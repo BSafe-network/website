@@ -1,7 +1,7 @@
 +++
 title = "Current Member Universities"
 description = ""
-date = "2017-12-05T10:00:00+07:00"
+date = "2018-01-07T10:00:00+07:00"
 creatordisplayname = "Shin'ichiro Matsuo"
 creatoremail = "Shinichiro.Matsuo@georgetown.edu"
 lastmodifierdisplayname = "Shin'ichiro Matsuo"
@@ -11,7 +11,7 @@ pre ="<i class='fa fa-edit'></i> "
 
 +++
 
-## Current Member Universities (25 Universities, as of January 06, 2018)
+## Current Member Universities (26 Universities, as of January 07, 2018)
 
 #### North and South America
 * Massachusetts Institute of Technology, Media Lab, USA
@@ -35,6 +35,7 @@ pre ="<i class='fa fa-edit'></i> "
 * Newcastle University, UK
 * Imperial College London, UK
 * University of Cambridge, UK
+*  University of West London, UK
 * Telecom SudParis, France
 * ETH Zurich, Switzerland
 * Ecole polytechnique federale de Lausanne, Switzerland
