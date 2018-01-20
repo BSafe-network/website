@@ -10,9 +10,9 @@ date = "2017-04-24T18:36:24+02:00"
 {{% alert theme="danger" %}}**BSafe.network Layer 2 Technology Competition has been announced. See the [Call For Proposal](technology-competiton/leyer2competition/index.html). Deadline is the end of March 2018.** {{% /alert %}}
 
 ## Goals
-The goal of the BSafe.network is to construct a neutral, stable and sustainable research network for blockchain technology. This network is used for academic research, not only scientific research but also interdisciplinary social and economic research. BSafe.network aims to mimic the same degree of impact that BSD ( Berkeley Software Distribution) and the NSFNET (The National Science Foundation Network) had on the evolution of the Internet. The former provided robust, liberally licensed software that put into practice the many theoretical advances made by academia. The latter scaled expertise, experience and resources. 
+The goal of the BSafe.network is to construct a neutral, stable and sustainable research network for blockchain technology. This network is used for academic research, not only scientific research but also interdisciplinary social and economic research. BSafe.network aims to mimic the same degree of impact that BSD ( Berkeley Software Distribution) and the NSFNET (The National Science Foundation Network) had on the evolution of the Internet. The former provided robust, liberally licensed software that put into practice the many theoretical advances made by academia. The latter scaled expertise, experience and resources.
 
-To realize a sustainable and decentralized blockchain network, large numbers of stable and neutral nodes are needed. The BSafe.network aims to help build this network by using the neutral role of a University. BSafe.network aims to have a criticial mass of nodes as a proportion of the current number of Bitcoin nodes. 
+To realize a sustainable and decentralized blockchain network, large numbers of stable and neutral nodes are needed. The BSafe.network aims to help build this network by using the neutral role of a University. BSafe.network aims to have a criticial mass of nodes as a proportion of the current number of Bitcoin nodes.
 
 BSafe.network aims to connect academia and real-life development, and to be a testbed and trust anchor for any research and real-life technology and application. For example, Bitcoin and other blockchain technology such as Ethereum can be linked to BSafe.network. The research results can be used for the future development of reliable technology, applications, technology and operational guidelines to which society can refer for the safe use of Bitcoin and blockchain technology.
 
@@ -40,6 +40,7 @@ Universities and individual researchers can join the BSafe.network. Each partici
 
 ## Media Articles
 
+* [Battle-Testing Lightning: 26 Schools Start Contest to Secure Bitcoin’s Layer 2 (CoinDesk, January 20, 2018)](https://www.coindesk.com/battle-testing-lightning-26-schools-start-contest-secure-bitcoins-layer-2/)
 * [Bitcoin Testing Matures as Global Universities Join BSafe Network (CoinDesk, June 30, 2016)](https://www.coindesk.com/bitcoin-testing-matures-global-universities-join-bsafe-network/)
 * [Blockchain Technology: Opportunities for Africa](https://www.isoc-bsig.org/blockchain-technology-opportunities-africa/)
 
