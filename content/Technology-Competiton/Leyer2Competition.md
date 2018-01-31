@@ -140,7 +140,11 @@ All submitters need to carefully submit the program code to avoid security vulne
 ### 8. B-Prize
 We are planning to award a winner and excellent proposals "B-Prize" with certain amount of money. Details will be announced when it is decided.
 
-### 9. Evaluating committee (alphabetical order)
+### 9. Note on business neutrality.
+
+The layer 2 technology competition focuses on providing technical knowledge to help further research and development. The result does not endorse anything about other aspects including soundness of business, exchange rates of cryptocurrencies and tokens. To preserve business neutrality, we do not evaluate any proposal with existing/upcoming plans of ICO or selling tokens.
+
+### 10. Evaluating committee (alphabetical order)
 * Chen Feng, University of British Columbia
 * Joaquin Garcia-Alfaro, Telecom Sud Paris
 * Ethan Heilman, Boston University
@@ -151,7 +155,7 @@ We are planning to award a winner and excellent proposals "B-Prize" with certain
 
 Other committee members will be added after confirmation.
 
-### 10. Contact and submission
+### 11. Contact and submission
 E-mail: [layer2.competition@bsafe.network](mailto:layer2.competition@bsafe.network)
 
 Website: http://bsafe.network
