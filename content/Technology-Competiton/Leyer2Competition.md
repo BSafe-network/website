@@ -7,7 +7,7 @@ date = "2017-04-28T18:36:24+02:00"
 [PDF version](../../Layer2competition.pdf)
 
 ## Call for proposal and rules of competition
-December 8, 2018, BSafe.network
+December 8, 2017, BSafe.network
 
 ### 1. Background of BSafe.network affiliated competition series and reasons for holding  layer 2 competition
 
@@ -140,7 +140,7 @@ All submitters need to carefully submit the program code to avoid security vulne
 ### 8. B-Prize
 We are planning to award a winner and excellent proposals "B-Prize" with certain amount of money. Details will be announced when it is decided.
 
-### 9. Note on business neutrality.
+### 9. Note on business neutrality
 
 The layer 2 technology competition focuses on providing technical knowledge to help further research and development. The result does not endorse anything about other aspects including soundness of business, exchange rates of cryptocurrencies and tokens. To preserve business neutrality, we do not evaluate any proposal with existing/upcoming plans of ICO or selling tokens.
 
@@ -148,9 +148,10 @@ The layer 2 technology competition focuses on providing technical knowledge to h
 * Chen Feng, University of British Columbia
 * Joaquin Garcia-Alfaro, Telecom Sud Paris
 * Ethan Heilman, Boston University
-* Jordi Herrera Joancomartí, UNIVERSITAT AUTÒNOMA DE BARCELONA
+* Jordi Herrera Joancomartí, Universitat Autònoma de Barcelona
 * Jameson Lopp, BitGo
 * Jeremy Rubin, Bitcoin Core Contributor
+* Rusty Russel, Blockstream
 * Shigeya Suzuki, Keio University
 
 Other committee members will be added after confirmation.
@@ -160,6 +161,9 @@ E-mail: [layer2.competition@bsafe.network](mailto:layer2.competition@bsafe.netwo
 
 Website: http://bsafe.network
 
+#### Revision history
+- December 8, 2017: Initial version
+- January 31, 2018: Add note on business neutrality
 
 #### About BSafe.network
 BSafe.network is an international and neutral research test network for blockchain technology. It plays a similar role as what NSFNET and BSD did for the development of the internet technology, for blockchain technology. The network consists of international universities to preserve neutrality, and as of December 8, 24 universities from North America, Europe, Asia and Africa are a part of BSafe.network.
