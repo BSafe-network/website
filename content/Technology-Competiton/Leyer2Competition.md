@@ -151,7 +151,7 @@ The layer 2 technology competition focuses on providing technical knowledge to h
 * Jordi Herrera Joancomartí, Universitat Autònoma de Barcelona
 * Jameson Lopp, BitGo
 * Jeremy Rubin, Bitcoin Core Contributor
-* Rusty Russel, Blockstream
+* Rusty Russell, Blockstream
 * Shigeya Suzuki, Keio University
 
 Other committee members will be added after confirmation.
