@@ -6,6 +6,16 @@ date = "2017-04-28T18:36:24+02:00"
 
 [PDF version](../../Layer2competition.pdf)
 
+{{% alert theme="danger" %}}**Announcement on BSafe.network Layer 2 Technology Competition **
+**To make the evaluation process robust and well-prepared, we call for expression of interest of proposal by 23:59 UTC April 6. It should include following information.**
+**- Name of corresponding proposer**
+**- Contact email address**
+**- Category of proposal: "New layer 2 technology” or “Evaluation technology"**
+
+**We will extend the deadline of full submission which includes technical documents and software codes several weeks after the deadline of expression of interest.
+Deadline of the full proposal is extended**
+ {{% /alert %}}
+
 ## Call for proposal and rules of competition
 December 8, 2017, BSafe.network
 
@@ -109,7 +119,9 @@ c)Unlinkability to identity
 
 ### 6. Schedule
 * Call for submission start: December 8, 2017
-* Submission deadline: March 31, 2018
+* ~~Submission deadline: March 31, 2018~~
+* Submission of expression of interest: 23:59 UTC April 6
+* Full submission deadline: A several weeks after April 6
 * Evaluation and experimentation start: April 1, 2018
 * Disclosure of a list of proposals: April 15
 * Evaluation and experimentation end: June 30, 2018
