@@ -7,10 +7,10 @@ date = "2017-04-24T18:36:24+02:00"
 ![logo](Bsafe_logo.png)
 # BSafe.network
 
-{{% alert theme="danger" %}}**Announcement on BSafe.network Layer 2 Technology Competition **
+{{% alert theme="danger" %}}**Announcement on BSafe.network Layer 2 Technology Competition**
 
-**To make the evaluation process robust and well-prepared, we call for expression of interest of proposal by 23:59 UTC April 6. Deadline of the full proposal is extended.
-See the [Call For Proposal](technology-competiton/leyer2competition/index.html). Deadline is the end of March 2018.** {{% /alert %}}
+To make the evaluation process robust and well-prepared, we call for expression of interest of proposal by 23:59 UTC April 6. Deadline of the full proposal is extended.
+See the [Call For Proposal.](technology-competiton/leyer2competition/index.html) {{% /alert %}}
 
 ## Goals
 The goal of the BSafe.network is to construct a neutral, stable and sustainable research network for blockchain technology. This network is used for academic research, not only scientific research but also interdisciplinary social and economic research. BSafe.network aims to mimic the same degree of impact that BSD ( Berkeley Software Distribution) and the NSFNET (The National Science Foundation Network) had on the evolution of the Internet. The former provided robust, liberally licensed software that put into practice the many theoretical advances made by academia. The latter scaled expertise, experience and resources.

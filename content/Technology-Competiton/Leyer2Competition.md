@@ -6,14 +6,15 @@ date = "2017-04-28T18:36:24+02:00"
 
 [PDF version](../../Layer2competition.pdf)
 
-{{% alert theme="danger" %}}**Announcement on BSafe.network Layer 2 Technology Competition **
-**To make the evaluation process robust and well-prepared, we call for expression of interest of proposal by 23:59 UTC April 6. It should include following information.**
-**- Name of corresponding proposer**
-**- Contact email address**
-**- Category of proposal: "New layer 2 technology” or “Evaluation technology"**
+{{% alert theme="danger" %}}**Announcement on BSafe.network Layer 2 Technology Competition**
 
-**We will extend the deadline of full submission which includes technical documents and software codes several weeks after the deadline of expression of interest.
-Deadline of the full proposal is extended**
+To make the evaluation process robust and well-prepared, we call for expression of interest of proposal by 23:59 UTC April 6. It should include following information.**
+- Name of corresponding proposer
+- Contact email address
+- Category of proposal: "New layer 2 technology” or “Evaluation technology"
+
+We will extend the deadline of full submission which includes technical documents and software codes several weeks after the deadline of expression of interest.
+Deadline of the full proposal is extended.
  {{% /alert %}}
 
 ## Call for proposal and rules of competition
@@ -122,11 +123,12 @@ c)Unlinkability to identity
 * ~~Submission deadline: March 31, 2018~~
 * Submission of expression of interest: 23:59 UTC April 6
 * Full submission deadline: A several weeks after April 6
-* Evaluation and experimentation start: April 1, 2018
-* Disclosure of a list of proposals: April 15
-* Evaluation and experimentation end: June 30, 2018
-* Announcement of a winner and excellent proposals: July 15, 2018
-* Technical presentation and awarding ceremony: August, 2018
+* Evaluation and experimentation start: May, 2018
+* Disclosure of a list of proposals: May, 2018
+* Evaluation and experimentation end: July, 2018
+* Announcement of a winner and excellent proposals: August, 2018
+* Technical presentation and awarding ceremony: September, 2018
+
 
 ### 7. Submission procedure
 Anyone can submit a proposal to this competition, but need to meet the following procedure and submission requirements.
