@@ -156,17 +156,9 @@
 <ul>
 <li><a href="#1-background-of-bsafe-network-affiliated-competition-series-and-reasons-for-holding-layer-2-competition">1. Background of BSafe.network affiliated competition series and reasons for holding  layer 2 competition</a></li>
 <li><a href="#2-goals">2. Goals</a></li>
-<li><a href="#3-categories-of-the-competition">3. Categories of the competition</a>
-<ul>
-<li><a href="#1-proposing-layer-2-protocol-and-code">1) Proposing layer 2 protocol and code</a></li>
-<li><a href="#2-proposing-attacking-measurement-tool-for-layer-2-technology">2) Proposing attacking/measurement tool for Layer 2 technology</a></li>
-</ul></li>
+<li><a href="#3-category-of-the-competition">3. Category of the competition</a></li>
 <li><a href="#4-evaluation-method">4. Evaluation method</a></li>
-<li><a href="#5-technical-requirements-and-evaluation-criteria">5.Technical requirements and evaluation criteria</a>
-<ul>
-<li><a href="#5-1-technical-requirements">5.1. Technical requirements</a></li>
-<li><a href="#5-2-evaluation-criteria">5.2. Evaluation criteria</a></li>
-</ul></li>
+<li><a href="#5-evaluation-metrics">5. Evaluation metrics</a></li>
 <li><a href="#6-schedule">6. Schedule</a></li>
 <li><a href="#7-submission-procedure">7. Submission procedure</a></li>
 <li><a href="#8-b-prize">8. B-Prize</a></li>
@@ -207,19 +199,15 @@ alert-danger"
  
 role="alert"><p><strong>Announcement on BSafe.network Layer 2 Technology Competition</strong></p>
 
-<p>To make the evaluation process robust and well-prepared, we call for expression of interest of proposal by 23:59 UTC April 6. It should include following information.**
-- Name of corresponding proposer
-- Contact email address
-- Category of proposal: &ldquo;New layer 2 technology” or “Evaluation technology&rdquo;</p>
+<p>According to expressions of interest of proposals we accepted, we focus on evaluation technology and software for the layer 2 technology.</p>
 
-<p>We will extend the deadline of full submission which includes technical documents and software codes several weeks after the deadline of expression of interest.
-Deadline of the full proposal is extended.</p>
+<p>We also extend the due date of full proposal to <strong>May 18</strong>. Anyone can propose evaluation technology and its implementation to this competition even if you did not sent us an expression of interest.</p>
 </div>
 
 
 <h2 id="call-for-proposal-and-rules-of-competition">Call for proposal and rules of competition</h2>
 
-<p>December 8, 2017, BSafe.network</p>
+<p>December 8, 2017, BSafe.network (Revision April 21, 2018)</p>
 
 <h3 id="1-background-of-bsafe-network-affiliated-competition-series-and-reasons-for-holding-layer-2-competition">1. Background of BSafe.network affiliated competition series and reasons for holding  layer 2 competition</h3>
 
@@ -252,7 +240,7 @@ Deadline of the full proposal is extended.</p>
 <li>Program codes: cc-by license
 
 <ul>
-<li>Layer 2 technology software codes</li>
+<li>Layer 2 attack/evaluation software codes</li>
 <li>Evaluation software codes/platform</li>
 </ul></li>
 <li>Evaluation data for each proposal</li>
@@ -261,15 +249,9 @@ Deadline of the full proposal is extended.</p>
 
 <p>As byproducts of this competition, we can provide public security testing theory and tools for Layer 2 technologies.</p>
 
-<h3 id="3-categories-of-the-competition">3. Categories of the competition</h3>
+<h3 id="3-category-of-the-competition">3. Category of the competition</h3>
 
-<p>We conduct two categories of competitions as follows.</p>
-
-<h4 id="1-proposing-layer-2-protocol-and-code">1) Proposing layer 2 protocol and code</h4>
-
-<p>We call for layer 2 technology to enhance all or some of scalability, privacy and security, and their trade-offs.</p>
-
-<h4 id="2-proposing-attacking-measurement-tool-for-layer-2-technology">2) Proposing attacking/measurement tool for Layer 2 technology</h4>
+<p>At the first competition, we conduct the competition for evaluation technology.</p>
 
 <p>We call for technology evaluation methodology and software for layer 2 technology. They include common datasets for evaluation. Please refer to section 4 for evaluation criteria to be considered.</p>
 
@@ -277,35 +259,9 @@ Deadline of the full proposal is extended.</p>
 
 <p>In this competition, we evaluate each proposal in two ways; theoretical evaluation and experimental evaluation. Theoretical evaluation is reviewing submitted technical documents by university researchers through a scientific review process. Experimental evaluation is performing experiments for each submission using BSafe.network isolated research test network by installing submitted software and running each blockchain network for three months, with evaluation datasets. Experiments include not only performance evaluation but also security evaluation and attacks performed by university researchers.</p>
 
-<h3 id="5-technical-requirements-and-evaluation-criteria">5.Technical requirements and evaluation criteria</h3>
+<h3 id="5-evaluation-metrics">5. Evaluation metrics</h3>
 
-<h4 id="5-1-technical-requirements">5.1. Technical requirements</h4>
-
-<p>The proposed layer two technologies in this competition should fulfill following technical requirements.</p>
-
-<p><strong>1) Reference application</strong></p>
-
-<p>Payment</p>
-
-<p><strong>2) Correctness</strong></p>
-
-<p>Double spending is not possible or theoretically difficult</p>
-
-<p><strong>3) Security</strong></p>
-
-<p>The entire system composed of layer 1 and layer 2 has resistance against fault, denial of service of nodes and network connections, and attack to nodes and network.</p>
-
-<p><strong>4) Privacy</strong></p>
-
-<p>The entire system composed of layer 1 and layer 2 assure unlinkability or fungibility of payment transaction</p>
-
-<p><strong>5) Fundamental layer 1 technology</strong></p>
-
-<p>Bitcoin with segregated witness</p>
-
-<h4 id="5-2-evaluation-criteria">5.2. Evaluation criteria</h4>
-
-<p>Supposed evaluation criteria are as follows.</p>
+<p>Supposed evaluation metrics include but not limited to</p>
 
 <p><strong>1) Performance</strong></p>
 
@@ -323,15 +279,15 @@ Deadline of the full proposal is extended.</p>
 
 <p>d) Scenario and data set to evaluate</p>
 
-<p>e)Availability of layer 2 nodes</p>
+<p>e) Availability of layer 2 nodes</p>
 
 <p><strong>3)Privacy/Fungibility</strong></p>
 
 <p>a) Correlation among transactions</p>
 
-<p>b)Unlinkability among transactions</p>
+<p>b) Unlinkability among transactions</p>
 
-<p>c)Unlinkability to identity</p>
+<p>c) Unlinkability to identity</p>
 
 <h3 id="6-schedule">6. Schedule</h3>
 
@@ -339,10 +295,10 @@ Deadline of the full proposal is extended.</p>
 <li>Call for submission start: December 8, 2017</li>
 <li><del>Submission deadline: March 31, 2018</del></li>
 <li>Submission of expression of interest: 23:59 UTC April 6</li>
-<li>Full submission deadline: A several weeks after April 6</li>
-<li>Evaluation and experimentation start: May, 2018</li>
-<li>Disclosure of a list of proposals: May, 2018</li>
-<li>Evaluation and experimentation end: July, 2018</li>
+<li>Full submission deadline: 23:59 UTC May 18</li>
+<li>Evaluation and experimentation start: May 21, 2018</li>
+<li>Disclosure of a list of proposals: May 30, 2018</li>
+<li>Evaluation and experimentation end: July 31, 2018</li>
 <li>Announcement of a winner and excellent proposals: August, 2018</li>
 <li>Technical presentation and awarding ceremony: September, 2018</li>
 </ul>
@@ -356,7 +312,6 @@ Each submitter must submit the following.</p>
 <li>Cover sheet
 
 <ul>
-<li>Category of submission (Layer 2 technology or evaluation)</li>
 <li>Name of submitter(s) with the corresponding submitter</li>
 <li>Email address</li>
 <li>Name of technology</li>
@@ -414,6 +369,9 @@ Each submitter must submit the following.</p>
 <ul>
 <li>December 8, 2017: Initial version</li>
 <li>January 31, 2018: Add note on business neutrality</li>
+<li>March 20, 2018: Add evaluating committee member</li>
+<li>March 29, 2018: Add process of expression of proposal</li>
+<li>April 21, 2018: Focus to evaluation and extension of full proposal</li>
 </ul>
 
 <h4 id="about-bsafe-network">About BSafe.network</h4>

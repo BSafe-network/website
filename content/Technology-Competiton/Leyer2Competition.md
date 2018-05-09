@@ -8,17 +8,13 @@ date = "2017-04-28T18:36:24+02:00"
 
 {{% alert theme="danger" %}}**Announcement on BSafe.network Layer 2 Technology Competition**
 
-To make the evaluation process robust and well-prepared, we call for expression of interest of proposal by 23:59 UTC April 6. It should include following information.**
-- Name of corresponding proposer
-- Contact email address
-- Category of proposal: "New layer 2 technology” or “Evaluation technology"
+According to expressions of interest of proposals we accepted, we focus on evaluation technology and software for the layer 2 technology.
 
-We will extend the deadline of full submission which includes technical documents and software codes several weeks after the deadline of expression of interest.
-Deadline of the full proposal is extended.
+We also extend the due date of full proposal to **May 18**. Anyone can propose evaluation technology and its implementation to this competition even if you did not sent us an expression of interest.
  {{% /alert %}}
 
 ## Call for proposal and rules of competition
-December 8, 2017, BSafe.network
+December 8, 2017, BSafe.network (Revision April 21, 2018)
 
 ### 1. Background of BSafe.network affiliated competition series and reasons for holding  layer 2 competition
 
@@ -43,21 +39,15 @@ This competition does not aim to select some technologies as standards or candid
  Outcomes to the public are as follows.
 
 * Program codes: cc-by license
-	* Layer 2 technology software codes
+	* Layer 2 attack/evaluation software codes
 	* Evaluation software codes/platform
 * Evaluation data for each proposal
 * Common evaluation dataset
 
 As byproducts of this competition, we can provide public security testing theory and tools for Layer 2 technologies.
 
-### 3. Categories of the competition
-We conduct two categories of competitions as follows.
-
-#### 1) Proposing layer 2 protocol and code
-
-We call for layer 2 technology to enhance all or some of scalability, privacy and security, and their trade-offs.
-
-#### 2) Proposing attacking/measurement tool for Layer 2 technology
+### 3. Category of the competition
+At the first competition, we conduct the competition for evaluation technology.
 
 We call for technology evaluation methodology and software for layer 2 technology. They include common datasets for evaluation. Please refer to section 4 for evaluation criteria to be considered.
 
@@ -65,32 +55,8 @@ We call for technology evaluation methodology and software for layer 2 technolog
 
 In this competition, we evaluate each proposal in two ways; theoretical evaluation and experimental evaluation. Theoretical evaluation is reviewing submitted technical documents by university researchers through a scientific review process. Experimental evaluation is performing experiments for each submission using BSafe.network isolated research test network by installing submitted software and running each blockchain network for three months, with evaluation datasets. Experiments include not only performance evaluation but also security evaluation and attacks performed by university researchers.
 
-### 5.Technical requirements and evaluation criteria
-#### 5.1. Technical requirements
-The proposed layer two technologies in this competition should fulfill following technical requirements.
-
-**1) Reference application**
-
-Payment
-
-**2) Correctness**
-
-Double spending is not possible or theoretically difficult
-
-**3) Security**
-
-The entire system composed of layer 1 and layer 2 has resistance against fault, denial of service of nodes and network connections, and attack to nodes and network.
-
-**4) Privacy**
-
-The entire system composed of layer 1 and layer 2 assure unlinkability or fungibility of payment transaction
-
-**5) Fundamental layer 1 technology**
-
-Bitcoin with segregated witness
-
-#### 5.2. Evaluation criteria
-Supposed evaluation criteria are as follows.
+### 5. Evaluation metrics
+Supposed evaluation metrics include but not limited to
 
 **1) Performance**
 
@@ -108,24 +74,24 @@ c) Resistance to DoS attack to make layer 2 transactions fail
 
 d) Scenario and data set to evaluate
 
-e)Availability of layer 2 nodes
+e) Availability of layer 2 nodes
 
 **3)Privacy/Fungibility**
 
 a) Correlation among transactions
 
-b)Unlinkability among transactions
+b) Unlinkability among transactions
 
-c)Unlinkability to identity
+c) Unlinkability to identity
 
 ### 6. Schedule
 * Call for submission start: December 8, 2017
 * ~~Submission deadline: March 31, 2018~~
 * Submission of expression of interest: 23:59 UTC April 6
-* Full submission deadline: A several weeks after April 6
-* Evaluation and experimentation start: May, 2018
-* Disclosure of a list of proposals: May, 2018
-* Evaluation and experimentation end: July, 2018
+* Full submission deadline: 23:59 UTC May 18
+* Evaluation and experimentation start: May 21, 2018
+* Disclosure of a list of proposals: May 30, 2018
+* Evaluation and experimentation end: July 31, 2018
 * Announcement of a winner and excellent proposals: August, 2018
 * Technical presentation and awarding ceremony: September, 2018
 
@@ -135,7 +101,6 @@ Anyone can submit a proposal to this competition, but need to meet the following
 Each submitter must submit the following.
 
 * Cover sheet
-	* Category of submission (Layer 2 technology or evaluation)
 	* Name of submitter(s) with the corresponding submitter
 	* Email address
 	* Name of technology
@@ -178,6 +143,9 @@ Website: http://bsafe.network
 #### Revision history
 - December 8, 2017: Initial version
 - January 31, 2018: Add note on business neutrality
+- March 20, 2018: Add evaluating committee member
+- March 29, 2018: Add process of expression of proposal
+- April 21, 2018: Focus to evaluation and extension of full proposal
 
 #### About BSafe.network
 BSafe.network is an international and neutral research test network for blockchain technology. It plays a similar role as what NSFNET and BSD did for the development of the internet technology, for blockchain technology. The network consists of international universities to preserve neutrality, and as of December 8, 24 universities from North America, Europe, Asia and Africa are a part of BSafe.network.
