@@ -11,6 +11,8 @@ date = "2017-04-28T18:36:24+02:00"
 According to expressions of interest of proposals we accepted, we focus on evaluation technology and software for the layer 2 technology.
 
 We also extend the due date of full proposal to **May 18**. Anyone can propose evaluation technology and its implementation to this competition even if you did not sent us an expression of interest.
+
+We uploaded [a sample of application document](BSafe_Layer2_ApplicationSample.pdf).
  {{% /alert %}}
 
 ## Call for proposal and rules of competition
@@ -113,6 +115,8 @@ Each submitter must submit the following.
 	* Any programming language is acceptable
 	* Installation documentation is needed.
 	* Providing installation package is recommended.
+
+[A sample of application document](BSafe_Layer2_ApplicationSample.pdf).
 
 All submitters need to carefully submit the program code to avoid security vulnerabilities and bugs. Before running software over BSafe.network, we will conduct the security analysis and source code check. If we found any major problem in the code, the proposal is not considered for the competition. If the evaluating committee judges that the technical documents do not contain enough information and data for theoretical evaluation, the proposal is not considered for the competition. Note that no code changes are allowed after submission.
 

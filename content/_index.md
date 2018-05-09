@@ -12,6 +12,8 @@ date = "2017-04-24T18:36:24+02:00"
 According to expressions of interest of proposals we accepted, we focus on evaluation technology and software for the layer 2 technology.
 
 We also extend the due date of full proposal to **May 18**. Anyone can propose evaluation technology and its implementation to this competition even if you did not sent us an expression of interest.
+
+We uploaded [a sample of application document](BSafe_Layer2_ApplicationSample.pdf).
  {{% /alert %}}
 
 ## Goals
