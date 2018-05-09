@@ -6,8 +6,19 @@ date = "2017-04-28T18:36:24+02:00"
 
 [PDF version](../../Layer2competition.pdf)
 
+{{% alert theme="danger" %}}**Announcement on BSafe.network Layer 2 Technology Competition**
+
+To make the evaluation process robust and well-prepared, we call for expression of interest of proposal by 23:59 UTC April 6. It should include following information.**
+- Name of corresponding proposer
+- Contact email address
+- Category of proposal: "New layer 2 technology” or “Evaluation technology"
+
+We will extend the deadline of full submission which includes technical documents and software codes several weeks after the deadline of expression of interest.
+Deadline of the full proposal is extended.
+ {{% /alert %}}
+
 ## Call for proposal and rules of competition
-December 8, 2018, BSafe.network
+December 8, 2017, BSafe.network
 
 ### 1. Background of BSafe.network affiliated competition series and reasons for holding  layer 2 competition
 
@@ -109,12 +120,15 @@ c)Unlinkability to identity
 
 ### 6. Schedule
 * Call for submission start: December 8, 2017
-* Submission deadline: March 31, 2018
-* Evaluation and experimentation start: April 1, 2018
-* Disclosure of a list of proposals: April 15
-* Evaluation and experimentation end: June 30, 2018
-* Announcement of a winner and excellent proposals: July 15, 2018
-* Technical presentation and awarding ceremony: August, 2018
+* ~~Submission deadline: March 31, 2018~~
+* Submission of expression of interest: 23:59 UTC April 6
+* Full submission deadline: A several weeks after April 6
+* Evaluation and experimentation start: May, 2018
+* Disclosure of a list of proposals: May, 2018
+* Evaluation and experimentation end: July, 2018
+* Announcement of a winner and excellent proposals: August, 2018
+* Technical presentation and awarding ceremony: September, 2018
+
 
 ### 7. Submission procedure
 Anyone can submit a proposal to this competition, but need to meet the following procedure and submission requirements.
@@ -140,22 +154,30 @@ All submitters need to carefully submit the program code to avoid security vulne
 ### 8. B-Prize
 We are planning to award a winner and excellent proposals "B-Prize" with certain amount of money. Details will be announced when it is decided.
 
-### 9. Evaluating committee (alphabetical order)
+### 9. Note on business neutrality
+
+The layer 2 technology competition focuses on providing technical knowledge to help further research and development. The result does not endorse anything about other aspects including soundness of business, exchange rates of cryptocurrencies and tokens. To preserve business neutrality, we do not evaluate any proposal with existing/upcoming plans of ICO or selling tokens.
+
+### 10. Evaluating committee (alphabetical order)
 * Chen Feng, University of British Columbia
 * Joaquin Garcia-Alfaro, Telecom Sud Paris
 * Ethan Heilman, Boston University
-* Jordi Herrera Joancomartí, UNIVERSITAT AUTÒNOMA DE BARCELONA
+* Jordi Herrera Joancomartí, Universitat Autònoma de Barcelona
 * Jameson Lopp, BitGo
 * Jeremy Rubin, Bitcoin Core Contributor
+* Rusty Russell, Blockstream
 * Shigeya Suzuki, Keio University
 
 Other committee members will be added after confirmation.
 
-### 10. Contact and submission
+### 11. Contact and submission
 E-mail: [layer2.competition@bsafe.network](mailto:layer2.competition@bsafe.network)
 
 Website: http://bsafe.network
 
+#### Revision history
+- December 8, 2017: Initial version
+- January 31, 2018: Add note on business neutrality
 
 #### About BSafe.network
 BSafe.network is an international and neutral research test network for blockchain technology. It plays a similar role as what NSFNET and BSD did for the development of the internet technology, for blockchain technology. The network consists of international universities to preserve neutrality, and as of December 8, 24 universities from North America, Europe, Asia and Africa are a part of BSafe.network.
