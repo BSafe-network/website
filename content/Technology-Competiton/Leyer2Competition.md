@@ -1,3 +1,5 @@
+
+
 +++
 title = "BSafe.network Layer 2 Technology Competition"
 description = ""
@@ -8,9 +10,11 @@ date = "2017-04-28T18:36:24+02:00"
 
 {{% alert theme="danger" %}}**Announcement on BSafe.network Layer 2 Technology Competition**
 
+Submission deadline is extended to **May 25 UTC 23:59.** This is strict deadline and there is no more extension.
+
 According to expressions of interest of proposals we accepted, we focus on evaluation technology and software for the layer 2 technology.
 
-We also extend the due date of full proposal to **May 18**. Anyone can propose evaluation technology and its implementation to this competition even if you did not sent us an expression of interest.
+We also extend the due date of full proposal to **May 25**. Anyone can propose evaluation technology and its implementation to this competition even if you did not sent us an expression of interest.
 
 We uploaded [a sample of application document](BSafe_Layer2_ApplicationSample.pdf).
  {{% /alert %}}
@@ -90,7 +94,8 @@ c) Unlinkability to identity
 * Call for submission start: December 8, 2017
 * ~~Submission deadline: March 31, 2018~~
 * Submission of expression of interest: 23:59 UTC April 6
-* Full submission deadline: 23:59 UTC May 18
+* ~~Full submission deadline: 23:59 UTC May 18~~
+* Full submission deadline: 23:59 UTC May 25
 * Evaluation and experimentation start: May 21, 2018
 * Disclosure of a list of proposals: May 30, 2018
 * Evaluation and experimentation end: July 31, 2018
@@ -150,6 +155,7 @@ Website: http://bsafe.network
 - March 20, 2018: Add evaluating committee member
 - March 29, 2018: Add process of expression of proposal
 - April 21, 2018: Focus to evaluation and extension of full proposal
+- May 17, 2018: Submission deadline extention and set strict deadline
 
 #### About BSafe.network
 BSafe.network is an international and neutral research test network for blockchain technology. It plays a similar role as what NSFNET and BSD did for the development of the internet technology, for blockchain technology. The network consists of international universities to preserve neutrality, and as of December 8, 24 universities from North America, Europe, Asia and Africa are a part of BSafe.network.
