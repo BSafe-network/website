@@ -9,15 +9,9 @@ date = "2017-04-28T18:36:24+02:00"
 [PDF version](../../Layer2competition.pdf)
 
 {{% alert theme="danger" %}}**Announcement on BSafe.network Layer 2 Technology Competition**
-
-Submission deadline is extended to **May 25 UTC 23:59.** This is strict deadline and there is no more extension.
-
-According to expressions of interest of proposals we accepted, we focus on evaluation technology and software for the layer 2 technology.
-
-We also extend the due date of full proposal to **May 25**. Anyone can propose evaluation technology and its implementation to this competition even if you did not sent us an expression of interest.
-
-We uploaded [a sample of application document](BSafe_Layer2_ApplicationSample.pdf).
- {{% /alert %}}
+We accepted several proposal to BSafe.network Layer 2 Technology Competition. Thank you for all efforts to produce these proposals.
+We will announce the progress of evaluation. 
+{{% /alert %}}
 
 ## Call for proposal and rules of competition
 December 8, 2017, BSafe.network (Revision April 21, 2018)
