@@ -11,7 +11,7 @@ pre ="<i class='fa fa-edit'></i> "
 
 +++
 
-## Current Member Universities (26 Universities, as of January 07, 2018)
+## Current Member Universities (27 Universities, as of January 07, 2018)
 
 #### North and South America
 * Massachusetts Institute of Technology, Media Lab, USA
