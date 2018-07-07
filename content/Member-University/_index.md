@@ -17,7 +17,7 @@ pre ="<i class='fa fa-edit'></i> "
 * Massachusetts Institute of Technology, Media Lab, USA
 * Boston University, USA
 * University of Illinois Urbana-Champaign, USA
-* Georgetwon University, USA
+* Georgetown University, USA
 * St. Mary's University School of Law, USA
 * The University of British Columbia, Canada
 * The University of Houston, USA
@@ -29,13 +29,14 @@ pre ="<i class='fa fa-edit'></i> "
 * Ritsumeikan University, Japan
 * SIM University, Singapore
 * Indian Statistical Institute, India
+* Amrita Vishwa Vidyapeetham, India
 * King Mongkut's University of Technology North Bangkok, Thai
 
 #### Europe
 * Newcastle University, UK
 * Imperial College London, UK
 * University of Cambridge, UK
-*  University of West London, UK
+* University of West London, UK
 * Telecom SudParis, France
 * ETH Zurich, Switzerland
 * Ecole polytechnique federale de Lausanne, Switzerland
