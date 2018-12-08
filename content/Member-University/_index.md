@@ -11,7 +11,7 @@ pre ="<i class='fa fa-edit'></i> "
 
 +++
 
-## Current Member Universities (27 Universities, as of July 07, 2018)
+## Current Member Universities (28 Universities, as of July 08, 2018)
 
 #### North and South America
 * Massachusetts Institute of Technology, Media Lab, USA
@@ -27,6 +27,7 @@ pre ="<i class='fa fa-edit'></i> "
 * Keio University, Japan
 * Toho University, Japan
 * Ritsumeikan University, Japan
+* Waseda University, Japan
 * SIM University, Singapore
 * Indian Statistical Institute, India
 * Amrita Vishwa Vidyapeetham, India
