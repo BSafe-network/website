@@ -17,9 +17,6 @@ pre ="<i class='fa fa-edit'></i> "
 
 ## Academic Conferences
 ### Upcoming conferences
-#### 2018
-* [ACM/IFIP International Middleware Conference: December 10 - 14, Rennes, France](http://2018.middleware-conference.org)
-
 #### 2019
 * [Real World Cryptography: January 9 - 11, San Jose, USA](https://rwc.iacr.org)
 * [Stanford Blockchain Conference 2019: January 30 - February 1, Stanford University, Palo Alto, USA](https://cyber.stanford.edu/sbc19)
@@ -28,6 +25,7 @@ pre ="<i class='fa fa-edit'></i> "
 * [3rd Workshop on Trusted Smart Contracts: February 22 (Submission Deadline: December 14, 2018, Notification: January 10, 2019), St. Kitts](http://fc19.ifca.ai/wtsc/)
 * [CryBlock 2018 - 2nd Workshop on Cryptocurrencies and Blockchains for Distributed Systems, April 29 (Submission Deadline: December 30, 2018, Notification: February 22, 2019), Paris, France](http://www.cryblock.org)
 * [Blockchain, Distributed Ledgers, and Financial Contracting, May 2 - 3 (Submission Deadline: January 20, 2019, Notification: early February), Cambridge, MA, USA](https://conference.nber.org/callforpapers/blockchain.html)
+* [Tokenomics 2019 – International Conference on Blockchain Economics, Security and Protocols May 6-7(Submission Deadline January 15, 2019, Notification: March 1, 2019), Paris France](http://www.tokenomics2019.org/tokenomics/)
 * [IEEE International Conference on Blockchain and Cryptocurrency, May 15 - 17 (Submission Deadline December 21(extendeed) 2018, Notification: February 11), Seoul, South Korea](http://icbc2019.ieee-icbc.org)
 * [40th IEEE Symposium on Security and Privacy, May 22-22, San Francisco, CA, USA](https://www.ieee-security.org/TC/SP2019/)
 * [4th IEEE European Symposium on Security and Privacy, June 17-19 (Notification: February 19, 2019), Stockholm, Sweden](https://www.ieee-security.org/TC/EuroSP2019/)
@@ -59,3 +57,4 @@ pre ="<i class='fa fa-edit'></i> "
 * [The 2018 IEEE Internatioanl Conference on Blockchain, July 30 - August 3, 2018, Halifax, Canada](http://cse.stfx.ca/~blockchain2018/)
 * [CBT 2018 - International Workshop on Cryptocurrencies and Blockchain Technology, in conjunction with ESORICS 2018 -: September 6 and 7, Barcelona, Catalonia](http://deic.uab.cat/conferences/cbt/cbt2018/)
 * [Scaling Bitcoin 2018 - Kaizen -: October 6 and 7, Keio University, Tokyo, Japan](https://tokyo2018.scalingbitcoin.org)
+* [ACM/IFIP International Middleware Conference: December 10 - 14, Rennes, France](http://2018.middleware-conference.org)
