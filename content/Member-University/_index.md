@@ -11,7 +11,7 @@ pre ="<i class='fa fa-edit'></i> "
 
 +++
 
-## Current Member Universities (28 Universities, as of July 08, 2018)
+## Current Member Universities (29 Universities, as of January 08, 2019)
 
 #### North and South America
 * Massachusetts Institute of Technology, Media Lab, USA
@@ -41,6 +41,7 @@ pre ="<i class='fa fa-edit'></i> "
 * Telecom SudParis, France
 * ETH Zurich, Switzerland
 * Ecole polytechnique federale de Lausanne, Switzerland
+* University of Zurich, Switzerland
 * University of Nicosia, Cyprus
 * Universitat Autonoma de Barcelona, Spain
 * IPMCE, Russia
