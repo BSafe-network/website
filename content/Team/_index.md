@@ -10,6 +10,12 @@ weight = 20
 pre ="<i class='fa fa-edit'></i> "
 
 +++
+### Officers (2019)
+#### COO: Shin'ichiro Matsuo
+#### Testbed Management Officer: Shigeya Suzuki
+#### Research Management Officer: Joaquin Garcia-Alfaro
+#### Evangelist/Membership Officer: Robert Schwentker
+
 ### Co-founders
 #### Shin'ichiro Matsuo, Ph.D.
 ![matsuo](../matsuo.jpg?height=240px)

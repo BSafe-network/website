@@ -7,8 +7,8 @@ date = "2017-04-24T18:36:24+02:00"
 ![logo](Bsafe_logo.png)
 # BSafe.network
 
-{{% alert theme="info" %}}**He list of academic conferences is updated.**
-[The list of academic conferences is updated at the academic resource page.](academic-resources/index.html) More information is welcome. 
+{{% alert theme="info" %}}**Management team list of 2019 is updated.**
+[The management team list of 2019 is updated.](team/index.html) 
 {{% /alert %}}
 
 {{% alert theme="danger" %}}**Announcement on BSafe.network Layer 2 Technology Competition**
