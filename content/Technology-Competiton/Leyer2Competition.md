@@ -92,10 +92,12 @@ c) Unlinkability to identity
 * Full submission deadline: 23:59 UTC May 25
 * Evaluation and experimentation start: May 21, 2018
 * Disclosure of a list of proposals: May 30, 2018
-* Evaluation and experimentation end: July 31, 2018
-* Announcement of a winner and excellent proposals: August, 2018
-* Technical presentation and awarding ceremony: September, 2018
-
+* ~~Evaluation and experimentation end: July 31, 2018~~
+* ~~Announcement of a winner and excellent proposals: August, 2018~~
+* ~~Technical presentation and awarding ceremony: September, 2018~~
+* Evaluation and experimentation end: tbd
+* Announcement of a winner and excellent proposals: tbd
+* Technical presentation and awarding ceremony: tbd
 
 ### 7. Submission procedure
 Anyone can submit a proposal to this competition, but need to meet the following procedure and submission requirements.
@@ -150,6 +152,7 @@ Website: http://bsafe.network
 - March 29, 2018: Add process of expression of proposal
 - April 21, 2018: Focus to evaluation and extension of full proposal
 - May 17, 2018: Submission deadline extention and set strict deadline
+- May 22, 2019: Re-evaluation of schedule
 
 #### About BSafe.network
 BSafe.network is an international and neutral research test network for blockchain technology. It plays a similar role as what NSFNET and BSD did for the development of the internet technology, for blockchain technology. The network consists of international universities to preserve neutrality, and as of December 8, 24 universities from North America, Europe, Asia and Africa are a part of BSafe.network.
