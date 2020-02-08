@@ -1,4 +1,4 @@
-+++
++++ 
 title = "CoDeFi Workshop Stanford"
 description = ""
 date = "2020-01-29T14:00:24-07:00"
@@ -38,26 +38,25 @@ This workshop is designed to provide multi-stakeholders an environment for the u
 
 ### Unconference discussion topic areas:
 
-* 2020 Scaling Cryptocurrency and Regulatory Challenges
+* Nature of systemic risk in decentralized systems* 2020 Scaling cryptocurrency and regulatory challenges
 * Common understandings on "Regulatory Goals"
-* FATF: AML and privacy
-* Financial stability impacts of decentralized risk-taking, decision-making & record-keeping 
-* Security of cryptocurrency exchanges
 * Risk and resilience in cryptocurrency financial systems
+* Financial stability impacts of decentralized risk-taking, decision-making & record-keeping
 * Central Bank Digital Currencies (CBDCs)
-* Standards: Technical, Regulatory
+* Interoperability with existing financial infrastructure, permissionless ledgers & CBDCs* Governance of protocols, implementations
+* Standards: technical, regulatory
+* Security, standards, and regulation of cryptocurrency exchanges
+* FATF: AML and privacy
+* Synthetic Hegemonic Currencies (SHC)
+* Corporate Coins & Consortiums: Libra Coin & Association, Binance Venus, Walmart, etc.
 * Mainstream adoption of cryptocurrencies & permissionless blockchain technologies
-* Regulation of exchanges and consumer protection
-* Interoperability with existing financial infrastructure, permissionless ledgers & CBDCs
-* Governance of protocols, implementations
-* Facebook Libra Coin and SHC (Synthetic Hegemonic Currencies)
-* Corporate Coins & Consortiums: Libra Coin & Association, Binance Venus, Walmart
 
 ### Organizing and Program Committees
 (Alphabetical Order)
-Byron Gibson, Program Manager at Stanford Center for Blockchain Research
-Shin'ichiro Matsuo, Georgetown University and BSafe.network (Workshop Chair)
-Robert Schwentker, DLT Education and BSafe.network
-Shigeya Suzuki, Keio University, BSafe.Network, BASE Alliance & WIDE Project
-Yuta Takanashi, JFSA and ex-Georgetown University
-Pindar Wong, BSafe.network
+* Byron Gibson, Program Manager at Stanford Center for Blockchain Research
+* Shin'ichiro Matsuo, Georgetown University and BSafe.network (Workshop Chair)
+* Robert Schwentker, DLT Education and BSafe.network
+* Shigeya Suzuki, Keio University, BSafe.Network, BASE Alliance and WIDE Project
+* Yuta Takanashi, JFSA and ex-Georgetown University
+* Ryosuke Ushida, JFSA and Georgetown University
+* Pindar Wong, BSafe.network
