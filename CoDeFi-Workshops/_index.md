@@ -15,15 +15,15 @@ In association with Stanford Blockchain Conference 2020
 
 ### Background
 
-On June 8th and 9th 2019, Distributed Ledger Technology-related innovations have been referenced in the Communique at the G20 Finance and Central Bank Meeting in Fukuoka, Japan, referencing the report produced by the Financial Stability Board (FSB) - fsb.org/about
+On June 8th and 9th 2019, Distributed Ledger Technology-related innovations have been referenced in the Communique at the G20 Finance and Central Bank Meeting in Fukuoka, Japan, referencing the report produced by the Financial Stability Board (FSB) - https://fsb.org/about
 
 * G20 Communique 
-Section 13 "We welcome the FSB report on decentralized financial technologies, and the possible implications for financial stability, regulation and governance, and how regulators can enhance the dialogue with a wider group of stakeholders.” mof.go.jp/english/international_policy/convention/g20/communique.htm?fbclid=IwAR2gyy7LFqed1L4L8M-71KRnIUFtpgj3yArNfZzuD1CqbdaUy57r6Fy4J9Q
+Section 13 "We welcome the FSB report on decentralized financial technologies, and the possible implications for financial stability, regulation and governance, and how regulators can enhance the dialogue with a wider group of stakeholders.” https://mof.go.jp/english/international_policy/convention/g20/communique.htm?fbclid=IwAR2gyy7LFqed1L4L8M-71KRnIUFtpgj3yArNfZzuD1CqbdaUy57r6Fy4J9Q
 
 * FSB Report 
-Decentralised financial technologies: Report on financial stability, regulatory and governance implications fsb.org/2019/06/decentralised-financial-technologies-report-on-financial-stability-regulatory-and-governance-implications
+Decentralised financial technologies: Report on financial stability, regulatory and governance implications https://fsb.org/2019/06/decentralised-financial-technologies-report-on-financial-stability-regulatory-and-governance-implications
 Direct link to the FSB Report document: 
-fsb.org/wp-content/uploads/P060619.pdf
+https://fsb.org/wp-content/uploads/P060619.pdf
 
 
 ### Blockchain Multi-Stakeholder CoDeFi Workshop
