@@ -43,7 +43,8 @@ This workshop is designed to provide multi-stakeholders an environment for the u
 * Risk and resilience in cryptocurrency financial systems
 * Financial stability impacts of decentralized risk-taking, decision-making & record-keeping
 * Central Bank Digital Currencies (CBDCs)
-* Interoperability with existing financial infrastructure, permissionless ledgers & CBDCs* Governance of protocols, implementations
+* Interoperability with existing financial infrastructure, permissionless ledgers & CBDCs
+* Governance of protocols, implementations
 * Standards: technical, regulatory
 * Security, standards, and regulation of cryptocurrency exchanges
 * FATF: AML and privacy
