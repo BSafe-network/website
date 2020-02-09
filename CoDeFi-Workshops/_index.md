@@ -38,14 +38,16 @@ This workshop is designed to provide multi-stakeholders an environment for the u
 
 ### Unconference discussion topic areas:
 
-* Nature of systemic risk in decentralized systems* 2020 Scaling cryptocurrency and regulatory challenges
+* Nature of systemic risk in decentralized systems
+* 2020 Scaling cryptocurrency and regulatory challenges
 * Common understandings on "Regulatory Goals"
 * Risk and resilience in cryptocurrency financial systems
 * Financial stability impacts of decentralized risk-taking, decision-making & record-keeping
 * Central Bank Digital Currencies (CBDCs)
-* Interoperability with existing financial infrastructure, permissionless ledgers & CBDCs
-* Governance of protocols, implementations
-* Standards: technical, regulatory
+* Interoperability with existing financial infrastructure, permissionless ledgers & CBDCs 
+
+* Standards: technical, regulatory
+* Governance of protocols, implementations
 * Security, standards, and regulation of cryptocurrency exchanges
 * FATF: AML and privacy
 * Synthetic Hegemonic Currencies (SHC)
