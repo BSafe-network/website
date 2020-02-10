@@ -12,6 +12,7 @@ February 18, 2020
 Stanford University
 In association with Stanford Blockchain Conference 2020
 
+If you would like to attend, please add your name to this list and we will respond asap: https://forms.gle/q17ogjdVDxZxAw1q6
 
 ### Background
 
