@@ -56,6 +56,7 @@ This workshop is designed to provide multi-stakeholders an environment for the u
 
 ### Organizing and Program Committees
 (Alphabetical Order)
+
 * Byron Gibson, Program Manager at Stanford Center for Blockchain Research
 * Shin'ichiro Matsuo, Georgetown University and BSafe.network (Workshop Chair)
 * Robert Schwentker, DLT Education and BSafe.network
