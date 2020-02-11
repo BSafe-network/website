@@ -11,7 +11,7 @@ March 11, 8:30-11:30 am ET, 2020
 
 130 Rafik B. Hariri Building, Georgetown University, Washington, D.C.
 
-If you would like to attend, please add your name to this list and we will respond asap: https://forms.gle/q17ogjdVDxZxAw1q6
+If you would like to attend, please add your name to this list and we will respond asap: https://forms.gle/1rTaz3UjDAE4Rcqo7
 
 ### Background
 
