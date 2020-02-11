@@ -7,15 +7,16 @@ date = "2017-04-24T18:36:24+02:00"
 ![logo](Bsafe_logo.png)
 # BSafe.network
 
-{{% alert theme="info" %}}**Announcement of CoDeFi Stanford 2020 Event**
-[BSafe.network will organize CoDeFi Stanford 2020 event on February 18 2020, the the before the Stanford Blockchain Conference at Stanford University. This events is one of multi-stakeholder discussion workshops after the 2019 G20 communique. ](events/CoDeFi_Stanford_2020/index.html) 
+{{% alert theme="info" %}}Announcement of CoDeFi 2020 Events:
+BSafe.network will organize CoDeFi Stanford 2020 event on February 18 2020, the the before the Stanford Blockchain Conference at Stanford University, and CoDeFi DC 2020 event on March 11 2020. Theses events are parts of multi-stakeholder discussion workshops after the 2019 G20 communique.  
+Check out Events page!
 {{% /alert %}}
 
-{{% alert theme="info" %}}**Management team list of 2019 is updated.**
-[The management team list of 2019 is updated.](team/index.html)
+{{% alert theme="info" %}}Management team list of 2019 is updated.
+The management team list of 2019 is updated.
 {{% /alert %}}
 
-{{% alert theme="danger" %}}**Announcement on BSafe.network Layer 2 Technology Competition**
+{{% alert theme="danger" %}}Announcement on BSafe.network Layer 2 Technology Competition
 We accepted several proposal to BSafe.network Layer 2 Technology Competition. Thank you for all efforts to produce these proposals.
 We will announce the progress of evaluation.
 {{% /alert %}}
