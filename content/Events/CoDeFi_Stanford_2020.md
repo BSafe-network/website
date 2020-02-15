@@ -18,7 +18,8 @@ If you would like to attend, please add your name to this list and we will respo
 - 10:00 - 10:15 am: Shin'ichiro Matsuo (Program Chair) Opening Remarks
 - 10:15 - 10:30 am: Byron Gibson, Introduction: Mapping Sources of Catastrophic Instability in dFMI
 - 10:30 - 11:00 am: Tarun Chitra: Stress Testing DeFi
-- 11:00 - 12:00 pm: Unconference discussions (& coffee break)
+- 11:00 - 11:30 pm: Regulator presentation 1 (tbd)
+- 11:30 - 12:00 pm: Regulator presentation 2 (tbd)
 - 12:00 - 01:00 pm: Lunch
 - 01:00 - 01:30 pm: Mark Miller: Constraining Compositional Risk in Interconnected Smart Contracts
 - 01:30 - 02:30 pm: Unconference discussions
