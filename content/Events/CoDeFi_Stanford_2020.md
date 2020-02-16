@@ -16,14 +16,14 @@ If you would like to attend, please add your name to this list and we will respo
 
 ### Agenda (subject to change)
 - 10:00 - 10:15 am: Shin'ichiro Matsuo (Program Chair) Opening Remarks
-- 10:15 - 10:30 am: Byron Gibson, Introduction: Mapping Sources of Catastrophic Instability in Decentralized Financial Services
+- 10:15 - 10:30 am: Byron Gibson: Introduction - Mapping Sources of Catastrophic Instability in Decentralized Financial Services
 - 10:30 - 11:00 am: Tarun Chitra: Stress Testing Decentralized Financial Services
 - 11:00 - 12:00 pm: Unconference discussion (& coffee break)
 - 12:00 - 01:00 pm: Lunch
 - 01:00 - 01:30 pm: Ryosuke Ushida presentation: (TBD)
 - 01:30 - 02:30 pm: Unconference discussions
 - 02:30 - 03:00 pm: coffee break
-- 03:00 - 03:30 pm: US Regulator presentation (TBD)
+- 03:00 - 03:30 pm: US Regulator presentation: (TBD)
 - 03:30 - 04:30 pm: Unconference discussions
 - 04:30 - 05:00 pm: Conclusion & Wrap up
 
