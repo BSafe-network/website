@@ -15,15 +15,15 @@ In association with Stanford Blockchain Conference 2020
 If you would like to attend, please add your name to this list and we will respond asap: https://forms.gle/q17ogjdVDxZxAw1q6
 
 ### Agenda (subject to change)
-- 10:00 - 10:15 am: Shin'ichiro Matsuo (Program Chair) Opening Remarks
-- 10:15 - 10:30 am: Byron Gibson: Introduction - Mapping Sources of Catastrophic Instability in Decentralized Financial Services
-- 10:30 - 11:00 am: Tarun Chitra: Stress Testing Decentralized Financial Services
-- 11:00 - 12:00 pm: Unconference discussion (& coffee break)
+- 10:00 - 10:15 am: Shin'ichiro Matsuo (Program Chair): Opening Remarks
+- 10:15 - 10:45 am: Ryosuke Ushida: Regulatory Pain Points and Multi-stakeholder Approach
+- 10:45 - 11:15 am: Tarun Chitra: Stress Testing Decentralized Financial Services
+- 11:15 - 12:00 pm: Unconference discussion (& coffee break)
 - 12:00 - 01:00 pm: Lunch
-- 01:00 - 01:30 pm: Ryosuke Ushida presentation: (TBD)
+- 01:00 - 01:30 pm: Byron Gibson: Overview of Risk in Decentralized Financial Systems
 - 01:30 - 02:30 pm: Unconference discussions
 - 02:30 - 03:00 pm: coffee break
-- 03:00 - 03:30 pm: US Regulator presentation: (TBD)
+- 03:00 - 03:30 pm: Bram Cohen: Consensus Protocol Risks
 - 03:30 - 04:30 pm: Unconference discussions
 - 04:30 - 05:00 pm: Conclusion & Wrap up
 
