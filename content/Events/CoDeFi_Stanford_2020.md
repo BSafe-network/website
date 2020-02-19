@@ -6,12 +6,15 @@ date = "2020-01-29T14:00:24-07:00"
 
 
 ## Workshop on Coordination of Decentralized Finance (CoDeFi)
-Exploring Financial Stability Impacts of Decentralized Networks
+### - Exploring Financial Stability Impacts of Decentralized Networks -
 
-February 18, 2020
-Stanford University
 In association with Stanford Blockchain Conference 2020
 
+### Date and Venue
+- Date: February 18, 2020
+- Venue: [Fischer Conference Center, Frances C. Arrillaga Alumni Center, Stanford University](https://goo.gl/maps/Z1sfBNwiHpwkQJfT7)
+
+### Registration
 If you would like to attend, please add your name to this list and we will respond asap: https://forms.gle/q17ogjdVDxZxAw1q6
 
 ### Agenda (subject to change)
