@@ -100,7 +100,7 @@ environmentally sustainable and ‘green’?
 * Byron Gibson, Program Manager at Stanford Center for Blockchain Research
 * Feng Chen, University of British Columbia
 * Shin'ichiro Matsuo, Georgetown University and BSafe.network (tentative chair)
-* Steven Nam, CodeX Stanford Blockchain Group
+* Steven Nam, Stanford Journal of Blockchain Law & Policy
 * Michele Benedetto Neitz, Golden Gate University
 * Roman Pavlov, SafeStead Inc.
 * Robert Schwentker, DLT Education and BSafe.network
