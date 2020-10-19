@@ -92,7 +92,7 @@ global financial market distributed ledger systems?
 * How may we co-design and evolve permissionless blockchain protocols to be
 environmentally sustainable and ‘green’?
 
-### Organizing and Program Committees
+## Organizing and Program Committees
 (Alphabetical Order)
 
 * Julien Bringer, Kallistech
