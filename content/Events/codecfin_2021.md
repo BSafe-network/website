@@ -1,10 +1,5 @@
-# DRAFT - The 2nd Workshop on Coordination of Decentralized Finance (CoDecFin) 2021
+# The 2nd Workshop on Coordination of Decentralized Finance (CoDecFin) 2021
 ### Regulators meet Industry meet Devs meet Researchers
-### 2021-03-05
-
-
-
-## Workshop on Coordination of Decentralized Finance (CoDecFin)
 ### - Exploring Financial Stability Impacts of Decentralized Networks -
 
 In association with Financial Cryptography and Data Security 2021 https://fc21.ifca.ai/
