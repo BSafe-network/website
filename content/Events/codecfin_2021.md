@@ -1,5 +1,5 @@
 # The 2nd Workshop on Coordination of Decentralized Finance (CoDecFin) 2021
-Regulators meet Industry meet Devs meet Researchers
+## Regulators meet Industry meet Devs meet Researchers
 2021-03-05
 In association with [Financial Cryptography and Data Security 2021](https://fc21.ifca.ai)
 
