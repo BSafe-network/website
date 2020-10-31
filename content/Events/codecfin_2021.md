@@ -25,7 +25,7 @@ Decentralised financial technologies: Report on financial stability, regulatory 
 This workshop is designed to identify and discuss technology and operation issues of permissionless blockchain and decentralized finance. As permissionless blockchain and distributed ledger technology (DLT) platforms evolve and mature, there is an urgent need for multi-stakeholders to engage in their planning, development, roll-out, and operation, in order for innovation of a wide variety of financial applications to proliferate and become mainstream. Thus far it has been mainly developer & startup communities which are driving these protocols, platforms, and applications for this new era of computing. New ​standards, governance mechanisms and design patterns​are evolving and need input from a variety of perspectives. There is a growing trend towards decentralized computing systems in which distributed ledger technologies are a fundamental component. These systems are designed to be global computing systems; they will likely form the basis of new financial services and businesses including a distributed Financial Market Infrastructure (dFMI). These new financial services and businesses could bring huge benefit to the global financial system, e.g. resiliency over
 
 efficiency, and predictability over resiliency. However financial regulators, central banks, the Bank for International Settlements (BIS) and International Monetary Fund (IMF), while recognizing the potential of DLT systems, have also been keenly aware of the challenges in the adoption, and designing for the consumer protections required to balance usability, safety while supporting innovation. While it is likely that many G20 countries will be leading the design and development of these new infrastructures, all cities and countries ​should be considered and encouraged to participate​in the planning.
-Discussions of this workshop are expected to contribute to discussions of Blockchain Governance Initiative Network (BGIN), where common documents on blockchain technology and operations are created backed by all stakeholders. Hence, CoDeFi 2021 will be directly connected to the general meeting of BGIN. The second general meeting of BGIN (Block #2) will be held right after CoDecFin.
+Discussions of this workshop are expected to contribute to discussions of Blockchain Governance Initiative Network (BGIN), where common documents on blockchain technology and operations are created backed by all stakeholders. Hence, CoDecFin 2021 will be directly connected to the general meeting of BGIN. The second general meeting of BGIN (Block #2) will be held right after CoDecFin.
 
 **Note: This workshop does not endorse any specific decentralized finance projects and products.**
 
@@ -55,6 +55,7 @@ Submission process is conducted by using EasyChair. We will open the submission 
 - FATF: AML and privacy
 - Policy on End to End Encryption
 - Security of exchanges and decentralized finance protocols
+- Algorithm agility of permissionless blockchain
 - Regulatory challenges of decentralized finance protocols
 - Risk and resilience in cryptocurrency financial systems
 - Harmonization of automated systems, human intervention and regulation
