@@ -39,7 +39,7 @@ operations
 ## Call for papers
 We call for papers on technology and operational issues related to decentralized finance and permissionless blockchain, and future directions to solve these issues with specifying background the author(s) have.
 (i) regular papers (15 pages LNCS format excluding references and appendices), (ii) short papers (8 pages LNCS format in total),
-Submission process is conducted by using EasyChair. We will open the submission site shortly.  
+Submission process is conducted by using EasyChair: [https://easychair.org/conferences/?conf=codecfin21](https://easychair.org/conferences/?conf=codecfin21) 
 
 **This year, we encourage to submit a paper associated with the current discussion topic at BGIN.**
 - **Key management at centralized/decentralized Custodian (see [the draft of work stream at BGIN](https://docs.google.com/document/d/1FfiMHNfmFg4eoN7pVmkKz-_ddujncnT0ydky9sNGxyA/edit?usp=sharing))**
@@ -78,6 +78,7 @@ CBDCs
 * Joaquin Garcia-Alfaro, Telecom SudParis
 * Byron Gibson, Program Manager at Stanford Center for Blockchain Research
 * Feng Chen, University of British Columbia
+* Arthur Gervais, Imperial College London
 * Shin'ichiro Matsuo, Georgetown University, NTT Research and BSafe.network (tentative chair)
 * Steven Nam, Stanford Journal of Blockchain Law & Policy
 * Michele Benedetto Neitz, Golden Gate University
