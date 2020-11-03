@@ -78,6 +78,7 @@ CBDCs
 * Joaquin Garcia-Alfaro, Telecom SudParis
 * Byron Gibson, Program Manager at Stanford Center for Blockchain Research
 * Feng Chen, University of British Columbia
+* Arthur Gervais, Imperial College London
 * Shin'ichiro Matsuo, Georgetown University, NTT Research and BSafe.network (tentative chair)
 * Steven Nam, Stanford Journal of Blockchain Law & Policy
 * Michele Benedetto Neitz, Golden Gate University
